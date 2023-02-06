@@ -1,4 +1,4 @@
-# Craeted using Create T3 App
+# Created using Create T3 App
 
 - [Next.js](https://nextjs.org)
 - [NextAuth.js](https://next-auth.js.org)
